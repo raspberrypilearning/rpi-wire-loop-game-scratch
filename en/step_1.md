@@ -7,9 +7,11 @@ Add project description here. What will learners be making? Broadly what skills 
 --- no-print ---
 Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+
+<video width="640" height="360" controls>
+<source src="images/showcase.mp4" type="video/mp4">
+</video>
+
 --- /no-print ---
 
 --- print-only ---
