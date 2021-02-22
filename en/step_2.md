@@ -1,4 +1,4 @@
-## Step title
+## Wire and test a buzzer
 
 In this step you will wire up buzzer and control it with Scratch
 
