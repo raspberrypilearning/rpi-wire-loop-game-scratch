@@ -35,6 +35,7 @@ title: What you will need
 
 + Scratch 3 Desktop
 
+--- /collapse ---
 
 --- collapse ---
 ---
