@@ -25,11 +25,13 @@ title: What you will need
 ### Hardware
 
 + A Raspberry Pi computer
++ A buzzer
 + 5 x pipe cleaners
++ 2 x M-F jumper leads
 + 2 x F-F jumper leads
 + 2 crocodile clip cables
 + Aluminium foil
-+ Plasticine of BluTack
++ Plasticine or BluTack
 
 ### Software
 
