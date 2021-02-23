@@ -33,7 +33,7 @@ Now you can have **Sprite1** report the score by using a `forever`{:class='block
 when flag clicked
 set [score v] to (10)
 forever
-say (join (Your score is ) (score))
+say (join [Your score is ] (score))
 ```
 
 --- /task ---
@@ -52,8 +52,8 @@ Add an `if...then`{:class='block3control'} block to your code, so that you can t
 when flag clicked
 set [score v] to (10)
 forever
-say (join (Your score is ) (score))
-if <(score) < (1)>> then
+say (join [Your score is [] (score))
+if <(score) < (1)> then
 say (You lose) for (2) seconds
 ```
 
