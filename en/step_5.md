@@ -52,9 +52,9 @@ Add an `if...then`{:class='block3control'} block to your code, so that you can t
 when flag clicked
 set [score v] to (10)
 forever
-say (join [Your score is [] (score))
+say (join [Your score is ] (score))
 if <(score) < (1)> then
-say (You lose) for (2) seconds
+say [You lose] for (2) seconds
 ```
 
 --- /task ---
