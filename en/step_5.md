@@ -58,3 +58,11 @@ say [You lose] for (2) seconds
 ```
 
 --- /task ---
+
+--- task ---
+
+Run your program and then play your wire loop game. Every time you touch the wire, your score should drop.
+
+--- /task ---
+
+--- save ---
