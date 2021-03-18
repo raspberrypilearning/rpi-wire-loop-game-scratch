@@ -46,6 +46,7 @@ title: What you will learn
 
 + How to use a buzzer with the Raspberry Pi and Scratch
 + How to use a button to sound a buzzer
++ How to use a variable to keep a score
 
 --- /collapse ---
 
