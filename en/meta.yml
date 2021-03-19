@@ -12,4 +12,9 @@ steps:
   - title: Build your wire loop game
   - title: Add a score
   - title: Reflection
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
   - title: What next?

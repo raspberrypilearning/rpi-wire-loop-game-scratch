@@ -59,3 +59,4 @@ You can download the completed project [here](http://rpf.io/p/en/rpi-wire-loop-g
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rpi-wire-loop-game-scratch/print){:target="_blank"}.
 
 --- /collapse ---
+
