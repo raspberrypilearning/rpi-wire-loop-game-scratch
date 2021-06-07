@@ -29,7 +29,7 @@ title: What you will need
 + 5 × pipe cleaners
 + 2 × M-F jumper wires
 + 2 × F-F jumper wires
-+ 2 × crocodile clip cables
++ 2 × crocodile clip wires
 + Aluminium foil
 + Plasticine or BluTack
 
