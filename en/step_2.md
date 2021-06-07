@@ -6,7 +6,7 @@ An active buzzer works just like an LED. It will make a sound when it is turned 
 
 --- task ---
 
-Use two F-F jumper wires to attach your buzzer to your Raspberry Pi device. The long leg of the buzzer must be wired to **3V3** and the short leg of the buzzer should be wired to a **GND** pin. The buzzer should sound straight away, so you know that it works.
+Use two F-F jumper wires to attach your buzzer to your Raspberry Pi device. The long leg of the buzzer must be wired to **3V3** and the short leg of the buzzer should be wired to a **GND** (ground) pin. The buzzer should sound straight away, so you know that it works.
 
 ![Circuit diagram of a buzzer wired to 3V3 and GND on a Raspberry Pi.](images/buzzer-circuit-test.png)
 
