@@ -37,7 +37,7 @@ Take another pipe cleaner, wrap it in foil, and then bend it into a loop.
 --- task ---
 
 Take the long, wrapped set of pipe cleaners and bend them into an interesting shape. Thread the wire loop you made onto the long wire.
-Then, use Plasticine or BluTack to attach the ends of the wire to a suitable base. 
+Then, use Plasticine or BluTack to attach the ends of the long wire to a suitable base. 
 ![The long wire made from pipe cleaners bent into shape with a suspended wire loop hanging from the middle.](images/wire-loop-game-unwired.jpg)
 
 --- /task ---
