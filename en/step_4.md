@@ -4,7 +4,7 @@ In this step, you will build the physical wire loop game to use with your existi
 
 --- task ---
 
-Take four pipe cleaners.
+First, you will need four pipe cleaners.
 
 ![Four pipe cleaners arranged on a cutting mat.](images/4-pipe-cleaners.jpg)
 
@@ -12,7 +12,7 @@ Take four pipe cleaners.
 
 --- task ---
 
-Twist together the ends of the pipe cleaners, so that all four are attached to form one long pipe cleaner. Place them on a piece of aluminium foil.
+Twist together the ends of the pipe cleaners, so that all four are attached to form one long pipe cleaner.
 
 ![Pipe cleaners attached together and sitting on a sheet of aluminium foil.](images/pipe-cleaners-aluminium.jpg)
 
@@ -20,7 +20,7 @@ Twist together the ends of the pipe cleaners, so that all four are attached to f
 
 --- task ---
 
-Wrap the pipe cleaners in the foil, so that they are covered from end to end.
+Wrap the pipe cleaners in a piece of aluminium foil, so that they are covered from end to end.
 
 ![Pipe cleaners wrapped in alumiunium foil.](images/pipe-cleaners-wrapped.jpg)
 
