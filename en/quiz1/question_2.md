@@ -11,7 +11,7 @@ Which of the following blocks, would sound a buzzer on pin 20, when a button on 
 - ( ) 1: 
 ```blocks3 
 when Button (21 v) [released  v] ::extension hat
-turn LED (20) on
+turn LED (20) on ::extension
 ```
 
 --- feedback ---
@@ -23,7 +23,7 @@ No. This would turn on a buzzer on pin 21 when the button is released.
 - ( ) 2: 
 ```blocks3 
 when Button (20 v) [pressed  v] ::extension hat
-turn LED (21) on
+turn LED (21) on ::extension
 ```
 
 --- feedback ---
@@ -35,7 +35,7 @@ No. This would turn on a buzzer on pin 21 when a button on pin 20 is pressed
 - ( ) 3: 
 ```blocks3 
 when Button (21 v) [pressed  v] ::extension hat
-turn LED (21) on
+turn LED (21) on ::extension
 ```
 
 --- feedback ---
@@ -47,12 +47,12 @@ No. This code tries to use the same pin for the buzzer and the button.
 - (x) 4: 
 ```blocks3 
 when Button (21 v) [pressed  v] ::extension hat
-turn LED (20) on
+turn LED (20) on ::extension
 ```
 
 --- feedback ---
 
-Well donw. This would turn on the buzzer when the button on pin 21 is pressed.
+Well done. This would turn on the buzzer when the button on pin 21 is pressed.
 
 --- /feedback ---
 

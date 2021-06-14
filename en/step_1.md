@@ -5,8 +5,6 @@ Add project description here. What will learners be making? Broadly what skills 
 ### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
-
 
 <video width="640" height="360" controls>
 <source src="images/showcase.mp4" type="video/mp4">
@@ -15,7 +13,7 @@ Add instructions for interacting with the embedded content here.
 --- /no-print ---
 
 --- print-only ---
-![Completed wire loop project](images/showcase.png)
+![Completed wire loop project.](images/showcase.png)
 --- /print-only ---
 
 --- collapse ---
@@ -26,10 +24,10 @@ title: What you will need
 
 + A Raspberry Pi computer
 + A buzzer
-+ 5 x pipe cleaners
-+ 2 x M-F jumper leads
-+ 2 x F-F jumper leads
-+ 2 crocodile clip cables
++ 5 × pipe cleaners
++ 2 × M-F jumper wires
++ 2 × F-F jumper wires
++ 2 × crocodile clip wires
 + Aluminium foil
 + Plasticine or BluTack
 
@@ -44,7 +42,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to use a buzzer with the Raspberry Pi and Scratch
++ How to use a buzzer with a Raspberry Pi computer and Scratch
 + How to use a button to sound a buzzer
 + How to use a variable to keep a score
 
