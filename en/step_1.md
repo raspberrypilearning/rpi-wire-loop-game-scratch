@@ -5,8 +5,6 @@ Add project description here. What will learners be making? Broadly what skills 
 ### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
-
 
 <video width="640" height="360" controls>
 <source src="images/showcase.mp4" type="video/mp4">
