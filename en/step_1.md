@@ -25,8 +25,8 @@ title: What you will need
 + A Raspberry Pi computer
 + A buzzer
 + 5 × pipe cleaners
-+ 2 × M-F jumper wires
-+ 2 × F-F jumper wires
++ 2 × socket-pin jumper wires
++ 2 × socket-socket jumper wires
 + 2 × crocodile clip wires
 + Aluminium foil
 + Plasticine or BluTack
