@@ -44,7 +44,7 @@ Then, use Plasticine or BluTack to attach the ends of the long wire to a suitabl
 
 --- task ---
 
-Use a crocodile clip lead to attach one end of the long wire to one of the M-F jumper wires, and another crocodile clip lead to attach the handle of the wire loop to the other M-F jumper wire.
+Use a crocodile clip lead to attach one end of the long wire to one of the Pin-Socket jumper wires, and another crocodile clip lead to attach the handle of the wire loop to the other Pin-Socket jumper wire.
 
 ![Crocodile clips attached to the wire loop game base and the wire loop, and then to the M-F jumper wires.](images/wire-loop-game-wired.jpg)
 
