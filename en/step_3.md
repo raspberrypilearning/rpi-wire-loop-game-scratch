@@ -4,7 +4,7 @@ In this step, you will add a simple button, which will control the buzzer.
 
 --- task ---
 
-Add a M-F jumper wire to **GP21** and another M-F wire to a second **GND** pin.
+Add a Pin-Socket jumper wire to **GP21** and another Pin-Socket wire to a second **GND** pin.
 
 ![Buzzer wired to GP20 and GND and additional jumper wires connected to GP21 and GND.](images/buzzer-and-button.png)
 
