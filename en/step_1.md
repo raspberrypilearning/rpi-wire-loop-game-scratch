@@ -1,8 +1,6 @@
-## Introduction
+## You will make
 
-In this project you will learn how to make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game), using simple materials and a Raspberry Pi Computer, with Scratch 3.
-
-### What you will make
+Make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game), using simple materials and a Raspberry Pi Computer, with Scratch 3.
 
 --- no-print ---
 
