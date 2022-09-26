@@ -5,7 +5,7 @@ description: Make a classic wire-loop game with Scratch and a Raspberry Pi
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-02-22"
+last_tested: '2021-02-22'
 steps:
   - title: You will make
   - title: Wire and test a buzzer
