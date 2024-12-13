@@ -1,10 +1,10 @@
 ## Build your wire loop game
 
-In this step, you will build the physical wire loop game to use with your existing Scratch code.
+Build the physical wire loop game to use with your existing Scratch code.
 
 --- task ---
 
-First, you will need four pipe cleaners.
+Take four pipe cleaners.
 
 ![Four pipe cleaners arranged on a cutting mat.](images/4-pipe-cleaners.jpg)
 
@@ -20,7 +20,7 @@ Twist together the ends of the pipe cleaners, so that all four are attached to f
 
 --- task ---
 
-Wrap the pipe cleaners in a piece of aluminium foil, so that they are covered from end to end.
+Wrap the pipe cleaners in a piece of aluminium foil, so that they are covered from end to end and it looks like one long wire.
 
 ![Pipe cleaners wrapped in alumiunium foil.](images/pipe-cleaners-wrapped.jpg)
 
@@ -28,7 +28,7 @@ Wrap the pipe cleaners in a piece of aluminium foil, so that they are covered fr
 
 --- task ---
 
-Take another pipe cleaner, wrap it in foil, and then bend it into a loop.
+Take the last pipe cleaner, wrap it in foil, and then bend it into a loop.
 
 ![A pipe cleaner bent into a loop and wrapped with aluminium foil.](images/wire-loop.jpg)
 
@@ -36,7 +36,7 @@ Take another pipe cleaner, wrap it in foil, and then bend it into a loop.
 
 --- task ---
 
-Take the long, wrapped set of pipe cleaners and bend them into an interesting shape. Thread the wire loop you made onto the long wire.
+Take the long wire made of pipe cleaners and bend it into an interesting shape. Thread the wire loop you made onto the long wire.
 Then, use Plasticine or BluTack to attach the ends of the long wire to a suitable base. 
 ![The long wire made from pipe cleaners bent into shape with a suspended wire loop hanging from the middle.](images/wire-loop-game-unwired.jpg)
 

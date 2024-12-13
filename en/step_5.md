@@ -1,6 +1,6 @@
 ## Add a score
 
-Now that you have a working game, you can add some code to keep a score of how the player is doing.
+Add some code to keep a score of how the player is doing.
 
 --- task ---
 
@@ -32,8 +32,8 @@ Now you can have **Sprite1** report the score by using a `forever`{:class='block
 ```blocks3
 when flag clicked
 set [score v] to (10)
-forever
-say (join [Your score is ] (score))
++forever
++say (join [Your score is ] (score))
 ```
 
 --- /task ---
@@ -53,8 +53,8 @@ when flag clicked
 set [score v] to (10)
 forever
 say (join [Your score is ] (score))
-if <(score) < (1)> then
-say [You lose] for (2) seconds
++if <(score) < (1)> then
++say [You lose] for (2) seconds
 ```
 
 --- /task ---
