@@ -1,6 +1,6 @@
 ## You will make
 
-Make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game), using simple materials and a Raspberry Pi Computer, with Scratch 3.
+Make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game), using simple materials and a Raspberry Pi Computer!
 
 --- no-print ---
 
@@ -14,12 +14,9 @@ Make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game), u
 ![Completed wire loop project.](images/showcase.png)
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+## What you will need
 
+### Hardware
 + A Raspberry Pi computer
 + A buzzer
 + 5 × pipe cleaners
@@ -30,30 +27,19 @@ title: What you will need
 + Plasticine or BluTack
 
 ### Software
-
-+ Scratch 3 Desktop
-
---- /collapse ---
++ Scratch 3 Desktop - <span style="color: #ff0000;font-weight:bold">This project can not be completed using the online Scratch 3 editor</span>, and must be completed using a Raspberry Pi with the desktop version installed. 
 
 --- collapse ---
 ---
-title: What you will learn
+title: Installing Scratch 3 desktop
 ---
 
-+ How to use a buzzer with a Raspberry Pi computer and Scratch
-+ How to use a button to sound a buzzer
-+ How to use a variable to keep a score
+Click on the Raspberry Pi logo, then **Preferences**, then **Recommended software**.
+
+![A Raspberry Pi menu with Preferences and then recommended software highlighted](images/preferences.png)
+
+Find **Scratch 3** in the list of software, tick the box and then click **Apply** to install it.
+
+![The option Scratch 3 is selected](images/scratch3.png)
 
 --- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/rpi-wire-loop-game-scratch-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rpi-wire-loop-game-scratch/print){:target="_blank"}.
-
---- /collapse ---
-

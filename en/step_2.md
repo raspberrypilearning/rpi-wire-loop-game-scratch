@@ -1,6 +1,6 @@
 ## Wire and test a buzzer
 
-In this step, you will wire up a buzzer and control it with Scratch.
+Wire up a buzzer and control it with Scratch.
 
 An active buzzer works just like an LED. It will make a sound when it is turned on and the sound will stop when the buzzer is turned off.
 
@@ -38,7 +38,10 @@ toggle LED (20 v) ::extension
 
 --- task ---
 
-Click on the block and your buzzer should sound. Click again and your buzzer should turn off. It doesn't matter that the block says LED, because buzzers and LEDs work in the same way. They're either on or off. 
+Click on the block and your buzzer should sound. Click again and your buzzer should turn off. 
+
+It doesn't matter that the block says LED, because buzzers and LEDs work in the same way. They're either on or off. 
 
 --- /task ---
+
 --- save ---

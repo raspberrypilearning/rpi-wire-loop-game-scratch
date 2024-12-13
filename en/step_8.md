@@ -1,4 +1,4 @@
-## What next?
+## What can you do now?
 
 If you are following the [Physical computing with Scratch and the Raspberry Pi path](https://projects.raspberrypi.org/en/pathways/physical-computing-with-scratch-and-the-raspberry-pi) pathway, you can move on to the [3D science display project](https://projects.raspberrypi.org/en/projects/scratch-3d-science) project. In this project, you will make a 3D LED science display.
 

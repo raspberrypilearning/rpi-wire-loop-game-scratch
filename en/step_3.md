@@ -1,6 +1,6 @@
 ## Add a button
 
-In this step, you will add a simple button, which will control the buzzer.
+Add a button to control the buzzer.
 
 --- task ---
 
