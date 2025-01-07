@@ -8,6 +8,8 @@ Add a Pin-Socket jumper wire to **GP21** and another Pin-Socket wire to a second
 
 ![Buzzer wired to GP20 and GND and additional jumper wires connected to GP21 and GND.](images/buzzer-and-button.png)
 
+Remember that in this diagram, the red wire goes to GP21, and the black wire goes to the GND.
+
 --- /task ---
 
 --- task ---
@@ -26,6 +28,6 @@ turn LED (20 v) [off v] ::extension
 
 --- task ---
 
-Run your code and then touch the two M-F jumper wires together. The buzzer should sound. When you take them apart, the buzzer should stop.
+Run your code and then touch the two Pin-Socket jumper wires together. The buzzer should sound. When you take them apart, the buzzer should stop.
 
 --- /task ---

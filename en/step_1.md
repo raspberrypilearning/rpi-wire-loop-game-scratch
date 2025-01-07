@@ -1,6 +1,6 @@
 ## You will make
 
-Make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game), using simple materials and a Raspberry Pi Computer!
+Make a classic [wire loop game](https://en.wikipedia.org/wiki/Wire_loop_game){:target="_blank"}, using simple materials and a Raspberry Pi Computer!
 
 --- no-print ---
 
