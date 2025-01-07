@@ -15,7 +15,7 @@ set [score v] to (10)
 
 --- task ---
 
-Each time the loop touches the wire, the score should decrease by `1`. Alter the section of your code that starts with `when button 21 is pressed`{:class='block3custom'} so that it looks like this:
+Each time the loop touches the wire, the score should decrease by `1`. Alter the section of your code that starts with `when button 21 is pressed`{:class="block3extensions"} so that it looks like this:
 
 ```blocks3
 when button (21 v) is [pressed v] ::extension hat
